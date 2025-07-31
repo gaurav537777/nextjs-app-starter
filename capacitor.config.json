@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.saniyaSpecialApp",
+  "appName": "Saniya Special App",
+  "webDir": "out",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
